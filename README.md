@@ -17,6 +17,9 @@ npm install
 ```sh
 node index.js
 ```
+```sh
+Write url of your website
+```
 
 ## Run tests
 
