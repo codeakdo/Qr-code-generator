@@ -8,7 +8,9 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@appnest/readme": "^1.2.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
