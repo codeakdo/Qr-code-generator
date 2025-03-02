@@ -37,4 +37,4 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This Project was Coded by ❤️ codeakdo
+This Project was Coded by ❤️ codeakdo
