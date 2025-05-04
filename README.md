@@ -7,6 +7,10 @@
 </p>
 
 ## Install
+```sh
+This Project coded in Node.js
+```
+## Install
 
 ```sh
 npm install
