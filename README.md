@@ -6,7 +6,6 @@
   </a>
 </p>
 
-## Install
 ```sh
 This Project coded in Node.js
 ```
